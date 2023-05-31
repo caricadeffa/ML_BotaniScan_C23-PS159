@@ -11,6 +11,13 @@ Our Member :
 5. (CC) Rivaldi Arta Wijaya (C146DSX0901) - Universitas Bengkulu
 6. (MD) Muhammad Nur Salim (A361DSX3176) – Universitas Terbuka
 
+## Another Github
+**Cloud Computing**\
+https://github.com/rnaufal52/CC_BotaniScan_C23-PS159 
+
+**Mobile Development**\
+[LINK]
+
 ## BotaniScan
 BotaniScan is a plant disease detection application by uploading photos of plant leaves and receiving immediate detection results.
 Also this app will give suggestions of stores that provide goods/materials needed to overcome plant diseases that have been detected. The initial release includes three key features: 
