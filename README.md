@@ -16,7 +16,7 @@ Our Member :
 https://github.com/rnaufal52/CC_BotaniScan_C23-PS159 
 
 **Mobile Development**\
-[LINK]
+https://github.com/nursalim92/MD_BotaniScan_C23-PS159
 
 ## BotaniScan
 BotaniScan is a plant disease detection application by uploading photos of plant leaves and receiving immediate detection results.
