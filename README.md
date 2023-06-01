@@ -34,6 +34,6 @@ Also this app will give suggestions of stores that provide goods/materials neede
 ## Dataset Source
 [PlantVillage Dataset: Pepper Bell, Corn, and Potato](https://www.kaggle.com/datasets/emmarex/plantdisease)
 ### Preview Disease Images
-![image.png]( {https://drive.google.com/file/d/1xe6J6sw1H84G74W-lDRj21A_I-8ZBsXs/view?usp=sharing} )
+![previewpotatodataset](image/previewpotatodataset.png)
 <h3 align="center">Potato Leaf Disease Prediction</h3> 
 
