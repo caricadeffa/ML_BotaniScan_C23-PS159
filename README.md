@@ -36,4 +36,4 @@ Also this app will give suggestions of stores that provide goods/materials neede
 ### Preview Disease Images
 <img src="image/previewpotatodataset.png" width="700">
 <img src="image/previewpepperdataset.png" width="700">
-
+<img src="image/previewcorndataset.PNG" width="700">
