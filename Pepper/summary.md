@@ -13,6 +13,10 @@ Resizes the image to a new width and height of 224 pixels each
 ### 3. Balancing dataset
 Create a balanced dataset by selecting a specific number of images from each class and copying them to a new directory
 
+The result of preprocessing data is as follows 
+
+<img src="https://github.com/caricadeffa/ML_BotaniScan_C23-PS159/assets/96445426/87dad276-9cd1-4913-8365-081fa56524ea" width="600px">
+
 ## Split Dataset
 Divide the dataset into three parts: train, validation, and test with composition 
 Train : 70%, Validation: 15%, and Test : 15%
@@ -27,6 +31,15 @@ To train and evaluate the model, callbacks are defined : earlystopping and model
 
 <img src="https://github.com/caricadeffa/ML_BotaniScan_C23-PS159/assets/96445426/c63e26b0-4012-4854-ac78-00407e46d68a" width="600px">
 
+On the validation generator, obtained
+test loss: 0.04669332131743431 and test accuracy: 0.9866666793823242
+
+<img src="https://github.com/caricadeffa/ML_BotaniScan_C23-PS159/assets/96445426/e4513861-e941-41c4-b791-f9600fdd1243" width="600px">
+
+While on the test generator, obtained
+test loss: 0.04463837668299675 and test accuracy: 0.9911110997200012
+
+Overall, the model has good performance on test data and validation data. Low loss values and high accuracy indicate that the model is able to classify both data sets well. The difference between loss and accuracy in the test data and validation data is very small, which indicates that the model is not overfitting to the training data and can generalize well to data not used in training
 
 ## Plotting Accuracy and Loss of Training and Validation
 
@@ -38,7 +51,7 @@ The confusion matrix generated using test data looks like the following image
 
 <img src="https://github.com/caricadeffa/ML_BotaniScan_C23-PS159/assets/96445426/4e099c7f-a647-4f91-a0fb-90d5a3c1fe0f" width="600px">
 
-It can be seen that the model classifies Not Bell Pepper class correctly. While in the bacterial spot class, there are 2 times the model error classifying to bell pepper healthy. And there is 1 time model error classifying bell pepper healthy as not bell peper.
+It can be seen that the model classifies not bell pepper class correctly. While in the bacterial spot class, there are 3 times the model error classifying to bell pepper healthy. And there is 1 time model error classifying bell pepper healthy as not bell pepper
 
 ## Classification Report 
 
