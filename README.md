@@ -32,7 +32,7 @@ Also this app will give suggestions of stores that provide goods/materials neede
 - Saving the baseline model, advanced preprocessing of data and model optimization
 
 ## Dataset Source
-[PlantVillage Dataset: Pepper Bell, Corn, and Potato](https://www.kaggle.com/datasets/emmarex/plantdisease)
+[PlantVillage Dataset: Pepper Bell, Corn, and Potato]([https://www.kaggle.com/datasets/emmarex/plantdisease](https://github.com/spMohanty/PlantVillage-Dataset))
 ### Preview Disease Images
 <img src="image/previewpotatodataset.png" width="700">
 <img src="image/previewpepperdataset.png" width="700">
